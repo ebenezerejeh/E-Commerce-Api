@@ -1,2 +1,2 @@
 # E-Commerce-Api
-An e-commerce backend application with AI integration
+Backend e-commerce application expressJS, mongodb, with AI integration
