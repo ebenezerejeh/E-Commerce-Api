@@ -1,0 +1,15 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "e_commerce application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "ebenezer ejeh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
