@@ -1,0 +1,11 @@
+this documentaion contains the process i went through while building this project
+
+initialized nodejs with npm init
+installed initial dependencies(expressjs mongoose body-parser dotenv) 
+
+we import express and use it to create a server to listen on a particular port
+
+we use express to create an express router 
+we create a routes folder and a products.route.js file and use the experss router the verb endpoints GET POST PUT DELETE in the routes folder
+we create a controllers folder and a products.controller.js file and move the callback functions from the products route to create a controller
+
